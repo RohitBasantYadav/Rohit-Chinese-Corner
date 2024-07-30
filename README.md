@@ -4,7 +4,7 @@
 
 ## [Netlify Link To Project](https://rohit-chinese-corner.netlify.app/)
 
-```This is a clone of the Bellavita website, where I have used React, React-Router, Context API, Axios, and Chakra UI for the frontend, and json-server for the backend. The project is deployed on Netlify. In this project, I have implemented login and logout functionality, cart functionality, and several product pages.```
+```This is a website I created while learning HTML, CSS, and the basics of JavaScript. The website is for my own shop and is deployed on Netlify. The tech stack used includes HTML, CSS, and JavaScript..```
 
 ## Screenshots
 
